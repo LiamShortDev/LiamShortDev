@@ -19,8 +19,8 @@ I'm a Robotics Engineering student passionate about embedded systems, 3D printin
 - [Rubik’s Cube Trainer](#) — Performance tracking app  
 
 ### 📫 Get in touch  
-- Portfolio: [liamshort.dev](https://liamshort.dev)  
-- LinkedIn: [linkedin.com/in/liamshort](https://linkedin.com/in/liamshort)  
+- Portfolio: [liamshort.dev](https://LiamShortDev.github.io)  
+- LinkedIn: [linkedin.com/in/liamshort](https://linkedin.com/in/liamshortdev)  
 
 ---
 
