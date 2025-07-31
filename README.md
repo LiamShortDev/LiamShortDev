@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Liam 👋
 
-<!--
-**LiamShortDev/LiamShortDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Robotics Engineering student passionate about embedded systems, 3D printing, and motorsport technology — especially Formula 1 engineering.
 
-Here are some ideas to get you started:
+🚀 Currently building projects that combine software and hardware to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Interested in exploring various areas of high-performance engineering, including vehicle dynamics, embedded control, and data acquisition.
+
+### 🔧 Skills & Tools  
+- CAD: Fusion 360 (learning)  
+- Programming: C#, Python, Arduino (C/C++)  
+- Embedded Systems: ESP32, microcontrollers, sensors  
+- 3D Printing & Rapid Prototyping  
+- Data acquisition & telemetry  
+
+### 📂 Featured Projects  
+- [CoreXY Chess Robot](#) — Embedded systems and motion control  
+- [3D Renderer in C#](#) — Custom graphics engine development  
+- [Rubik’s Cube Trainer](#) — Performance tracking app  
+
+### 📫 Get in touch  
+- Portfolio: [liamshort.dev](https://liamshort.dev)  
+- LinkedIn: [linkedin.com/in/liamshort](https://linkedin.com/in/liamshort)  
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories.  
